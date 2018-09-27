@@ -1,5 +1,7 @@
 # subst.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreyvit/subst.js.svg)](https://greenkeeper.io/)
+
 Synopsis:
 
     var subst = require('subst');
